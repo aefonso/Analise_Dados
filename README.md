@@ -2,15 +2,16 @@
 
 <p>
 Tarefas:
-Leitura do dataset e conversão para formato de dataframe;
-Preparação e exploração dos dados, se necessitar:
-Identificação e tratamento de valores ausentes/nulos (missing);
-Identificação e tratamento de valores atípicos (outliers);
-Tratamento em formato de dados;
-Se vários datasets, identificar chaves primárias e realizar a junção (join);
-Criação de novos dados para facilitar a análise (feature engineering).
-Realizar pelo menos 5 análises descritivas e gerar os respectivos gráficos (as análises devem ser combinadas com o professor da disciplina);
 </p>
+
+<li>Leitura do dataset e conversão para formato de dataframe;</li>
+<li>Preparação e exploração dos dados, se necessitar:</li>
+<li>Identificação e tratamento de valores ausentes/nulos (missing);</li>
+<li>Identificação e tratamento de valores atípicos (outliers);</li>
+<li>Tratamento em formato de dados;</li>
+<li>Se vários datasets, identificar chaves primárias e realizar a junção (join);</li>
+<li>Criação de novos dados para facilitar a análise (feature engineering).
+Realizar pelo menos 5 análises descritivas e gerar os respectivos gráficos (as análises devem ser combinadas com o professor da disciplina);</li>
 
 <h2>Como rodar localmente, abrir o terminal e utilizar os comandos a seguir:</h2>
 
