@@ -15,7 +15,7 @@ Realizar pelo menos 5 análises descritivas e gerar os respectivos gráficos (as
 
 <h2>Como rodar localmente, abrir o terminal e utilizar os comandos a seguir:</h2>
 
-<p>Dentro do diretório <strong>Django-r11-main</strong> instale as dependências do pip executando o comando:</p>
+<p>Dentro do diretório, instale as dependências do pip executando o comando:</p>
 
 <li>pip install notebook</li>
 
