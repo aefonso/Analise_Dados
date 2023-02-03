@@ -23,7 +23,7 @@ Realizar pelo menos 5 análises descritivas e gerar os respectivos gráficos (as
 
 <li>pip install matplotlib</li>
 
-<p>Ainda dentro do diretório <strong>Django-r11-main</strong> execute o comando para iniciar o Jupyter Notebook:</p>
+<p>Ainda dentro do diretório, execute o comando para iniciar o Jupyter Notebook:</p>
 
 <li>jupyter notebook</li>
 
